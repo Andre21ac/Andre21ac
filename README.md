@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Me chamo André, aqui você vai ver meus prjetos.</h2>
+<h2 align="center">Olá 👋! Me chamo André, aqui você vai ver meus projetos.</h2>
 
 ###
 
