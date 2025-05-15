@@ -1,9 +1,10 @@
-<h2 align="center">Olá 👋! aqui você vai ver meus projetos.</h2>
+<h2 align="center">Welcome to my profile!</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre21ac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre21ac&count_private=true&show_icons=true&theme=radical" height="150"/>
 </div>
 
 ###
